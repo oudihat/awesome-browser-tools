@@ -13,6 +13,7 @@
 ## 🖼️ Image Conversion & Resizing
 
 - [ImgFaster](https://imgfaster.com) – Lightweight image tool to **resize images** and **convert between formats** (PNG, JPG, WebP, PDF) – all client-side, no upload needed.
+- [FreePNGConvert](https://freepngconvert.com) - Free in-browser WebP to PNG converter, no upload, privacy-first
 
 ---
 
