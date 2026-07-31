@@ -32,6 +32,7 @@
 
 - [TinyPNG](https://tinypng.com) – Compress PNG and JPG images.
 - [Regex101](https://regex101.com) – Build and test regular expressions.
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) – Browser-based concrete estimating calculators for slab volume, bag counts, post holes, ready-mix comparisons, and material cost planning.
 - [Remove.bg](https://remove.bg) – Automatically remove image backgrounds.
 
 ---
