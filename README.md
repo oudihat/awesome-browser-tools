@@ -29,6 +29,7 @@
 ---
 
 ## 📦 Bonus Tools
+- [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) - Free MIT browser tools for freelancers: invoice, quote, deposit calculator, hourly vs fixed-price, late-fee, timesheet, and client close docs. No signup.
 
 - [TinyPNG](https://tinypng.com) – Compress PNG and JPG images.
 - [Regex101](https://regex101.com) – Build and test regular expressions.
