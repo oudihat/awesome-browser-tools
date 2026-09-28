@@ -13,6 +13,7 @@
 ## 🖼️ Image Conversion & Resizing
 
 - [ImgFaster](https://imgfaster.com) – Lightweight image tool to **resize images** and **convert between formats** (PNG, JPG, WebP, PDF) – all client-side, no upload needed.
+- [File Converter](https://fileontap.com/) – Free browser-local HEIC/WebP/PNG/JPG conversion, compression, and image↔PDF; no upload or account required.
 
 ---
 
