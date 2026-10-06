@@ -25,6 +25,7 @@
 ## 📚 Digital Tools & Guides
 
 - [LCFFH](https://lcffh.com) – Mobile-friendly hub for **how-to guides**, top digital tools, productivity tips, and affiliate content.
+- [NakupSladilcev.si engagement-rate calculator](https://nakupsladilcev.si/tools/engagement-rate) – Free Slovenian-language calculator for likes-plus-comments engagement against followers, reach or views, with manual counts and an explanation of denominator differences.
 
 ---
 
