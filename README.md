@@ -33,6 +33,7 @@
 - [TinyPNG](https://tinypng.com) – Compress PNG and JPG images.
 - [Regex101](https://regex101.com) – Build and test regular expressions.
 - [Remove.bg](https://remove.bg) – Automatically remove image backgrounds.
+- [QuietTake](https://noiseremover.site/) – Free browser-local RNNoise speech cleanup with original/cleaned playback and WAV export; no signup or audio upload, up to 50 MB and five minutes per file.
 
 ---
 ---
