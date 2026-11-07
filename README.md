@@ -12,6 +12,7 @@
 
 ## 🖼️ Image Conversion & Resizing
 
+- [ASCII Images](https://ascii-images.com/image-to-ascii) – Free browser tool for converting images to ASCII text with copy and text-download output, without an account.
 - [ImgFaster](https://imgfaster.com) – Lightweight image tool to **resize images** and **convert between formats** (PNG, JPG, WebP, PDF) – all client-side, no upload needed.
 
 ---
