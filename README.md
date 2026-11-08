@@ -30,6 +30,7 @@
 
 ## 📦 Bonus Tools
 
+- [Cursive Generation Font Pairing Assistant](https://cursive-generation.com/font-pairing-assistant) – Pair script headings with body fonts for lettering layouts.
 - [TinyPNG](https://tinypng.com) – Compress PNG and JPG images.
 - [Regex101](https://regex101.com) – Build and test regular expressions.
 - [Remove.bg](https://remove.bg) – Automatically remove image backgrounds.
