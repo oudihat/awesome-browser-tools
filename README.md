@@ -33,6 +33,7 @@
 - [TinyPNG](https://tinypng.com) – Compress PNG and JPG images.
 - [Regex101](https://regex101.com) – Build and test regular expressions.
 - [Remove.bg](https://remove.bg) – Automatically remove image backgrounds.
+- [StagePeek](https://stagepeek.live) – Interactive 3D concert & stadium seat view previewer across 201 venues (free browser preview, no signup required).
 
 ---
 ---
